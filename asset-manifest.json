@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hyundai_spa/static/css/main.b76a99f5.css",
+    "main.js": "/hyundai_spa/static/js/main.3e1c2c29.js",
+    "index.html": "/hyundai_spa/index.html",
+    "main.b76a99f5.css.map": "/hyundai_spa/static/css/main.b76a99f5.css.map",
+    "main.3e1c2c29.js.map": "/hyundai_spa/static/js/main.3e1c2c29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b76a99f5.css",
+    "static/js/main.3e1c2c29.js"
+  ]
+}
