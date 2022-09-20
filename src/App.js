@@ -15,7 +15,7 @@ const App = () => {
         <Route path='/' element={<Main />} />
         <Route path='/sub01' element={<Sub01 />} />
         <Route path='/sub02' element={<Sub02 />} />
-        <Route path='*' element={<NotFound />} />
+        <Route path='/*' element={<NotFound />} />
       </Routes>
       <Footer />
 

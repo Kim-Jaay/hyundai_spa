@@ -3,7 +3,7 @@
 
     .itm {
         position: relative;
-        height: 600px;
+        height: 700px;
     }
 
     .content {
@@ -16,7 +16,16 @@
 
     @for $i from 1 through 3 {
         .itm0#{$i} {
-            background: url(../../public/assets/images/main_visual0#{$i}.jpg)no-repeat center center/cover
+            background: url(../../public/assets/images/main_visual0#{$i}.jpg) no-repeat center center/cover;
         }
+    }
+
+    .itm.on {
+        color: #fff;
+        transition: 1s;
+    }
+
+    .dots>li.on {
+        color: #f00;
     }
 }
