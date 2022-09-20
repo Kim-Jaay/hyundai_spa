@@ -2,7 +2,7 @@
   "name": "hd_spa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://desipossa.github.io/hd_spa/",
+  "homepage": "https://kim-jaay.github.io/hyundai_spa/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
