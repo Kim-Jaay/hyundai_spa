@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hyundai_spa/static/css/main.b76a99f5.css",
-    "main.js": "/hyundai_spa/static/js/main.1a1104c5.js",
+    "main.js": "/hyundai_spa/static/js/main.547c4a4f.js",
     "index.html": "/hyundai_spa/index.html",
     "main.b76a99f5.css.map": "/hyundai_spa/static/css/main.b76a99f5.css.map",
-    "main.1a1104c5.js.map": "/hyundai_spa/static/js/main.1a1104c5.js.map"
+    "main.547c4a4f.js.map": "/hyundai_spa/static/js/main.547c4a4f.js.map"
   },
   "entrypoints": [
     "static/css/main.b76a99f5.css",
-    "static/js/main.1a1104c5.js"
+    "static/js/main.547c4a4f.js"
   ]
 }
